@@ -1,12 +1,16 @@
-
 ![enter image description here](https://lh3.googleusercontent.com/Bg2icoDeso4ikiBFMzTtXQ4dIYwfTE-HYo_ctgZWBsuFISHe-F9WxVd3GYH_BVLXEBV0Z9_aKhIh "portada")
  #  MI PROYECTO PERSONAL 
 # ESTILO VERSÁTIL CHIC!
              **Análisis Integral De Información
 #Tema : Almacen de ropa 
   **OBJETIVO**
-Ofrecer Base de datos de mejor calidad  que satisface las  necesidades y gustos del cliente  enfocado a  mercado potencial, vender ropa a la moda que cumpla con los requerimientos enfocado al manejo de inventarios en el  segmento del mercado **Base De Datos ** 
+Ofrecer Base de datos de mejor calidad  que satisface las  necesidades y gustos del cliente  enfocado a  mercado potencial, vender ropa a la moda que cumpla con los requerimientos enfocado al manejo de inventarios en el  segmento del mercado **Base De Datos **  
+
+
 ![enter image description here](https://lh3.googleusercontent.com/aMMNAZYRMSrWz6EEYjq-UEfuG3Jqkwgg8T8rY2L-fNRhOjEURvc6BwkSMJGT7shH_3lr7SZ2RhgD "ROPA CHICK")
+
+
+
 # MISIÓN
 Ofrecer a nuestros clientes producto de calidad, donde puede encontrar una base de información que cumplan con sus necesidades y exigencias, abarcando sus gustos de acuerdo a su estilo de ver y vivir la vida.
  **ORGANIZACIÓN  DE  BASE DE DATOS **
@@ -26,4 +30,3 @@ Chic: elegante
 identificativa y para formar confianza, se ilustra una base de información acompañado de datos del almacén como lo es la moda ¨Ropa con experiencia propia¨**
 
 ![enter image description here](https://lh3.googleusercontent.com/uJ9h3n4r_y_ev_g9HsbMG9VRMV-DeSGwo9SOqlGc7Jdzzjbwy06ul0VAW_wiIdYpu-iicX-nG_cb "ESLOGAN")
-
